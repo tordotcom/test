@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T07:47:11.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="TBNICMlq1SdgJn0oN2Iz" version="16.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-13T07:55:05.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="s3RezC39Xp345AB1HObt" version="16.2.4" type="github" pages="3">
   <diagram id="ze_MoYQA2r5EFsKigY35" name="add-edite person face">
     <mxGraphModel dx="573" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         <mxCell id="4-wn0cnXMnrgW4uP09XW-0" />
         <mxCell id="4-wn0cnXMnrgW4uP09XW-1" parent="4-wn0cnXMnrgW4uP09XW-0" />
         <mxCell id="kTThM0WCF1ycf4D1RFmG-0" value="update table user" style="shape=umlFrame;whiteSpace=wrap;html=1;flipH=1;width=130;height=20;swimlaneFillColor=default;" vertex="1" parent="4-wn0cnXMnrgW4uP09XW-1">
-          <mxGeometry x="515" y="955" width="230" height="110" as="geometry" />
+          <mxGeometry x="480" y="950" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XTiW4TQGSpLE-9_Tid9M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4-wn0cnXMnrgW4uP09XW-1" source="4-wn0cnXMnrgW4uP09XW-2" target="XTiW4TQGSpLE-9_Tid9M-1">
           <mxGeometry relative="1" as="geometry" />
@@ -179,26 +179,47 @@
         <mxCell id="r7SwsJZN8frnd9jtxFka-0" value="add local person&lt;br&gt;and update person face" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4-wn0cnXMnrgW4uP09XW-1">
           <mxGeometry x="302" y="580" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PaGKrxBwvjmt5kq7GpfX-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4-wn0cnXMnrgW4uP09XW-1" source="xVYJKn-XZaEca2nL1mMn-0" target="PaGKrxBwvjmt5kq7GpfX-0">
+        <mxCell id="9OngI55aS7ZLv-HLhsR3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4-wn0cnXMnrgW4uP09XW-1" source="xVYJKn-XZaEca2nL1mMn-0" target="9OngI55aS7ZLv-HLhsR3-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xVYJKn-XZaEca2nL1mMn-0" value="update person face" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4-wn0cnXMnrgW4uP09XW-1">
-          <mxGeometry x="545" y="850" width="100" height="60" as="geometry" />
+        <mxCell id="xVYJKn-XZaEca2nL1mMn-0" value="update person face&lt;br&gt;AD" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4-wn0cnXMnrgW4uP09XW-1">
+          <mxGeometry x="645" y="800" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PaGKrxBwvjmt5kq7GpfX-0" value="sync status=True&lt;br&gt;personId=personId" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4-wn0cnXMnrgW4uP09XW-1">
-          <mxGeometry x="539.25" y="980" width="111.5" height="60" as="geometry" />
+          <mxGeometry x="504.25" y="975" width="111.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kTThM0WCF1ycf4D1RFmG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4-wn0cnXMnrgW4uP09XW-1" source="kTThM0WCF1ycf4D1RFmG-1" target="kTThM0WCF1ycf4D1RFmG-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kTThM0WCF1ycf4D1RFmG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4-wn0cnXMnrgW4uP09XW-1" source="kTThM0WCF1ycf4D1RFmG-1" target="kTThM0WCF1ycf4D1RFmG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kTThM0WCF1ycf4D1RFmG-1" value="count found" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="4-wn0cnXMnrgW4uP09XW-1">
           <mxGeometry x="570" y="580" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OngI55aS7ZLv-HLhsR3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4-wn0cnXMnrgW4uP09XW-1" source="kTThM0WCF1ycf4D1RFmG-3" target="9OngI55aS7ZLv-HLhsR3-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kTThM0WCF1ycf4D1RFmG-3" value="update person face" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4-wn0cnXMnrgW4uP09XW-1">
           <mxGeometry x="450" y="680" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kTThM0WCF1ycf4D1RFmG-5" value="found=1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4-wn0cnXMnrgW4uP09XW-1">
           <mxGeometry x="500" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kTThM0WCF1ycf4D1RFmG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4-wn0cnXMnrgW4uP09XW-1" source="kTThM0WCF1ycf4D1RFmG-6" target="xVYJKn-XZaEca2nL1mMn-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kTThM0WCF1ycf4D1RFmG-6" value="delete person remark=local" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="4-wn0cnXMnrgW4uP09XW-1">
+          <mxGeometry x="645" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kTThM0WCF1ycf4D1RFmG-8" value="found&amp;gt;1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4-wn0cnXMnrgW4uP09XW-1">
+          <mxGeometry x="630" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9OngI55aS7ZLv-HLhsR3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.469;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4-wn0cnXMnrgW4uP09XW-1" source="9OngI55aS7ZLv-HLhsR3-0" target="kTThM0WCF1ycf4D1RFmG-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OngI55aS7ZLv-HLhsR3-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;labelBackgroundColor=none;gradientColor=none;" vertex="1" parent="4-wn0cnXMnrgW4uP09XW-1">
+          <mxGeometry x="585.75" y="890" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
