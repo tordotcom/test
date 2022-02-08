@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T04:49:01.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="zOvkRpDcOUeV5o324DmB" version="16.5.2" type="github">
-  <diagram id="5OYUTQo7XULoropLd0ze" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-02-08T04:52:27.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="O3LhdDR_a7r4mO0QNplP" version="16.5.2" type="github">
+  <diagram id="5OYUTQo7XULoropLd0ze" name="Datalog-workflow">
     <mxGraphModel dx="812" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -99,6 +99,12 @@
         </mxCell>
         <mxCell id="-AGgx1Sb-sWKwIZxjVId-34" value="Line notification" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;gradientColor=none;" vertex="1" parent="-AGgx1Sb-sWKwIZxjVId-1">
           <mxGeometry x="390" y="860" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AGgx1Sb-sWKwIZxjVId-37" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="-AGgx1Sb-sWKwIZxjVId-1">
+          <mxGeometry x="320" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-AGgx1Sb-sWKwIZxjVId-38" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="-AGgx1Sb-sWKwIZxjVId-1">
+          <mxGeometry x="440" y="810" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
